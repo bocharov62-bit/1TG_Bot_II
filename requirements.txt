@@ -1,0 +1,13 @@
+# Python зависимости для Telegram бота
+# 
+# Установка:
+# pip install -r requirements.txt
+
+# Telegram бот фреймворк
+aiogram==3.13.1
+
+# HTTP запросы к Ollama
+aiohttp==3.9.5
+
+# Работа с переменными окружения
+python-dotenv==1.0.1
